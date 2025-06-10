@@ -99,6 +99,5 @@ Expected Response:
 ├── business_service.py
 ├── client_service.py
 ├── db_service.py
-├── README.md
-└── venv/
+└── README.md
 ```
