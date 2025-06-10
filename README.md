@@ -41,12 +41,7 @@ The system includes three microservices communicating via HTTP:
 
 ## Setup and Running
 
-### Cloning the Repository
-
-```bash
-git clone <https://github.com/maijamana/fastapi-microservices-rest-api>
-cd rest_homework_2
-```
+After cloning the Repository:
 ### Creating a Virtual Environment and Installing Dependencies
 
 ```bash
